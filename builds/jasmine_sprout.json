@@ -11,11 +11,17 @@
         },
         {
             "file_name": "AospExtended-v6.6-jasmine_sprout-20190630-1207-OFFICIAL.zip"
+        },
+        {
+            "file_name": "AospExtended-v6.6-jasmine_sprout-20190723-1924-OFFICIAL.zip"
         }
     ],
     "pie_gapps": [
         {
             "file_name": "AospExtended-v6.6-jasmine_sprout-20190629-1624-OFFICIAL.zip"
+        },
+        {
+            "file_name": "AospExtended-v6.6-jasmine_sprout-20190721-0640-OFFICIAL.zip"
         }
     ]
 }
